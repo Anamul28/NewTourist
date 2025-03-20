@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Statue of Liberty",
+    "description": "Iconic symbol of freedom and democracy, standing tall in New York Harbor.",
+    "image": "https://images.unsplash.com/photo-1605130284535-11dd9eedc58a?auto=format&fit=crop&q=80&w=800",
+    "location": {
+      "lat": 40.6892,
+      "lng": -74.0445,
+      "address": "Liberty Island",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "rating": 4.8,
+    "category": "Landmarks",
+    "admission_fee": "$23.50 for adults, $12 for children (4-12)",
+    "opening_hours": "9:00 AM - 5:00 PM daily",
+    "website": "https://www.nps.gov/stli/"
+  },
+  {
+    "name": "Empire State Building",
+    "description": "Iconic Art Deco skyscraper with observation decks offering panoramic city views.",
+    "image": "https://images.unsplash.com/photo-1555109307-f0b72a1f3729?auto=format&fit=crop&q=80&w=800",
+    "location": {
+      "lat": 40.7484,
+      "lng": -73.9857,
+      "address": "20 W 34th St",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "rating": 4.7,
+    "category": "Landmarks",
+    "admission_fee": "$42 for adults, $36 for children (6-12)",
+    "opening_hours": "8:00 AM - 2:00 AM daily",
+    "website": "https://www.esbnyc.com/"
+  },
+  {
+    "name": "Central Park",
+    "description": "Sprawling urban oasis with walking paths, a zoo, and various attractions.",
+    "image": "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?auto=format&fit=crop&q=80&w=800",
+    "location": {
+      "lat": 40.7829,
+      "lng": -73.9654,
+      "address": "Central Park",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "rating": 4.9,
+    "category": "Parks and Gardens",
+    "admission_fee": "Free",
+    "opening_hours": "6:00 AM - 1:00 AM daily",
+    "website": "https://www.centralparknyc.org/"
+  }
+]
